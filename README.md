@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ltevidence
-- 👀 I’m interested in Web Development and Photography
-- 🌱 I’m currently learning HTML/CSS/Js and Ruby (Ruby on Rails) with The Hacking Project
+# 👋 Hi, I’m @ltevidence
+- 👀 I am currently intraining to work in software engineering at <i> Capgemini
+- 🌱 I’m currently learning Java/Angular/Spring Boot and Event-driven programming 
 - 📸 Check out my Instagram : @loickjphoto
